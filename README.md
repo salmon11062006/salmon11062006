@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm currently learning as a student in BINUS International
+- I'm currently a student in BINUS International
 - I'm currently learning how to code in Python, HTML, and CSS
 - Fun fact: I love cats
 <!--
